@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @caedees
 - 👀 I’m interested in embedded and blockchain programming
-- 🌱 I’m currently learning pretty much everything connected to system programming and C/C++/Rust langs
+- 🌱 I’m currently learning pretty much everything connected to system programming and ASMx86/C/C++/Rust langs
 - 💞️ I’m looking to collaborate on doing crazy things (there's lots of 'em)
 - 📫 Yet you can't reach me 'cause I'm not ready for prod programming yet
 - 😄 Pronouns: he/him
