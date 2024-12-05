@@ -5,8 +5,3 @@
 - 📫 Yet you can't reach me 'cause I'm not ready for prod programming yet
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I eat pickles
-
-<!---
-caedees/caedees is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
