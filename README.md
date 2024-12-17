@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on doing crazy things (there's lots of 'em)
 - 📫 You can't reach me yet 'cause I'm not ready for prod programming
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I eat pickles
+- ⚡ Fun fact: "fun" is keyword for declaring functions in Kotlin
